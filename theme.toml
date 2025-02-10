@@ -1,0 +1,57 @@
+name = "PaperModScientific"
+license = "MIT"
+licenselink = "https://github.com/Manik2000/hugo-PaperMod-Scientific/blob/master/LICENSE"
+description = "A fast, clean, responsive Hugo theme optimized for technical and scientific writing"
+homepage = "https://github.com/Manik2000/hugo-PaperMod-Scientific"
+tags = [
+  "responsive",
+  "simple",
+  "clean",
+  "light",
+  "dark",
+  "blog",
+  "minimalist",
+  "highlight.js",
+  "search",
+  "academic",
+  "scientific",
+  "technical",
+  "mathematics",
+  "bibliography"
+]
+features = [
+  "responsive",
+  "single-column",
+  "blog",
+  "cover-image",
+  "table-of-contents",
+  "opengraph",
+  "highlight.js",
+  "favicon",
+  "archive",
+  "share-icons",
+  "cover",
+  "multilingual",
+  "social-icons",
+  "minified-assets",
+  "theme-toggle",
+  "menu-location-indicator",
+  "scroll-to-top",
+  "search",
+  "latex-bibliography",
+  "mathjax",
+  "theme-dependent-logos",
+  "flexible-toc"
+]
+min_version = "0.125.7"
+
+[author]
+  name = "Marcin Kostrzewa"
+  homepage = "https://github.com/Manik2000/"
+
+# If porting an existing theme
+[original]
+  name = "Paper"
+  author = "nanxiaobei"
+  homepage = "https://github.com/nanxiaobei"
+  repo = "https://github.com/nanxiaobei/hugo-paper/"
